@@ -9,4 +9,3 @@ Como también perdonamos a los de otros geeks
 No nos dejes caer en el *detached HEAD*
 y líbranis de *SVN*
 `git commit --amend`
-
